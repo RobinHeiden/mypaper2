@@ -1,4 +1,4 @@
-# mypaper2
+# Insert formidable title here
 
 ## Introduction
 
